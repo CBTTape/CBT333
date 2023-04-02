@@ -1,0 +1,27 @@
+2023-04-02 23:31:59.070742 - Initialized conversion of CBT333
+2023-04-02 23:31:59.200737 - Received CBT.V504.FILE333.PDS from FILE333.XMI 
+2023-04-02 23:31:59.203021 - Found $$$#DATE.txt (text/plain) in CBT.V504.FILE333.PDS, moved to PDS/$$$#DATE
+2023-04-02 23:31:59.203937 - Found $README.txt (text/plain) in CBT.V504.FILE333.PDS, moved to PDS/$README
+2023-04-02 23:31:59.205384 - Found #CLNKJCL.jcl (text/plain) in CBT.V504.FILE333.PDS, moved to PDS/#CLNKJCL
+2023-04-02 23:31:59.206410 - Found #CLNKSBG.jcl (text/plain) in CBT.V504.FILE333.PDS, moved to PDS/#CLNKSBG
+2023-04-02 23:31:59.207332 - Found #DES.jcl (text/plain) in CBT.V504.FILE333.PDS, moved to PDS/#DES
+2023-04-02 23:31:59.208290 - Found #GCH.jcl (text/plain) in CBT.V504.FILE333.PDS, moved to PDS/#GCH
+2023-04-02 23:31:59.209597 - Found #GZIP.txt (text/plain) in CBT.V504.FILE333.PDS, moved to PDS/#GZIP
+2023-04-02 23:31:59.210511 - Found #GZP.jcl (text/plain) in CBT.V504.FILE333.PDS, moved to PDS/#GZP
+2023-04-02 23:31:59.211406 - Found #PGP@MPI.jcl (text/plain) in CBT.V504.FILE333.PDS, moved to PDS/#PGP@MPI
+2023-04-02 23:31:59.212710 - Found #PGP@RSA.jcl (text/plain) in CBT.V504.FILE333.PDS, moved to PDS/#PGP@RSA
+2023-04-02 23:31:59.213610 - Found #PY.jcl (text/plain) in CBT.V504.FILE333.PDS, moved to PDS/#PY
+2023-04-02 23:31:59.214472 - Found @FILE333.txt (text/plain) in CBT.V504.FILE333.PDS, moved to PDS/@FILE333
+2023-04-02 23:31:59.215376 - Found CCMPOPTS.txt (text/plain) in CBT.V504.FILE333.PDS, moved to PDS/CCMPOPTS
+2023-04-02 23:31:59.216329 - Found COPTS.txt (text/plain) in CBT.V504.FILE333.PDS, moved to PDS/COPTS
+2023-04-02 23:31:59.216338 - Found DOC.bin containing application/octet-stream, moved to PDS/DOC
+2023-04-02 23:31:59.217184 - Found FILES.bin containing application/octet-stream, moved to PDS/FILES
+2023-04-02 23:31:59.218967 - Found GO#GZIP.jcl (text/plain) in CBT.V504.FILE333.PDS, moved to PDS/GO#GZIP
+2023-04-02 23:31:59.219881 - Found GO#PY.jcl (text/plain) in CBT.V504.FILE333.PDS, moved to PDS/GO#PY
+2023-04-02 23:31:59.220805 - Found HDCC.txt (text/plain) in CBT.V504.FILE333.PDS, moved to PDS/HDCC
+2023-04-02 23:31:59.220815 - Found HELP.bin containing application/octet-stream, moved to PDS/HELP
+2023-04-02 23:31:59.221706 - Found INSTALL.bin containing application/octet-stream, moved to PDS/INSTALL
+2023-04-02 23:31:59.222638 - Found NOTES.bin containing application/octet-stream, moved to PDS/NOTES
+2023-04-02 23:31:59.223696 - Found README.bin containing application/octet-stream, moved to PDS/README
+2023-04-02 23:31:59.238634 - Found XMITLOAD.xmi (application/xmit) in CBT.V504.FILE333.PDS
+2023-04-02 23:31:59.245152   - Received RECFM=U data, stored XMIT file as CBT333/XMITLOAD.xmi
